@@ -8,7 +8,7 @@ let countries = ["Afghanistan", "Algeria", "Argentina", "Australia", "Bangladesh
                  "Hungary", "Iceland", "India", "Indonesia", "Iran", "Italy", "Japan", "Malaysia",
                  "Maldives", "Mexico", "Morocco", "Nepal", "Netherlands", "Nigeria", "Norway", "Pakistan",
                  "Peru", "Russia", "Romania", "South Africa", "Spain", "Sri Lanka", "Sweden", "Switzerland",
-                 "Thailand", "Turkey", "Uganda", "🇺🇦Ukraine", "United States", "United Kingdom", "Vietnam"];
+                 "Thailand", "Turkey", "Uganda", "🇺🇦 Ukraine", "United States", "United Kingdom", "Vietnam"];
 
 function addCountry(selectedCountry) {
     options.innerHTML = "";
